@@ -146,6 +146,25 @@ Signing an autograph on a phone is hard to personalize given the size of availab
 
 ## TOKEN MODEL
 
+## FUTURE FEATURES
+
+### Lazy Bulk Minting
+Stars can create many generic autographs (one at a time) and store them in their hashink web account.
+Later, fans may insta-buy these autographs without going through he waiting period. These autographs could be less expensive.
+
+### Video Backgrounds
+Celebs may record a video on top of which they sign their autograph.
+
+### GroupSig
+Multiple signers, one NFT.
+The NFT is either; 
+
+* minted once all signatures have been received or; 
+* A new NFT is minted each time an additional signer is added
+
+### Existing NFT autographing
+Being able to add a autograph on top of an existing NFT’s picture. Of course this won’t edit or modify the original NFT, but will mint a new one.
+
 
 ## USER STORIES
 

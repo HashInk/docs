@@ -1,13 +1,13 @@
 # docs
 
 ## **Hashink**: Connecting Stars and Fans through NFT'd autographs.
-https://hashink.app
-https://twitter.com/hashinkapp
+[Landing](https://hashink.app)
+[Twitter](https://twitter.com/hashinkapp)
 
 
 ## ABSTRACT
 
-Ink is a dapp for fans to request and purchase autographs from their stars and allow them to sign and send them digitally by using NFT technology. 
+Hashink is a dapp for fans to request and purchase autographs from their stars and allow them to sign and send them digitally by using NFT technology. 
 
 
 ## ROADMAP
@@ -40,7 +40,7 @@ Ink is a dapp for fans to request and purchase autographs from their stars and a
 
 ## ARCHITECTURE
 
-###Technologies
+### Technologies
 
 * Smart Contracts: Solidity + HardHat
 * Query layer: The Graph
@@ -85,7 +85,7 @@ Existing platforms that have royalties implemented:
 
 Existing non-marketplace projects that have royalties implemented are:
 
-*Mintable (https://twitter.com/mintable_app/status/1340494751192137728)
+*[Mintable](https://twitter.com/mintable_app/status/1340494751192137728)
 *…? 
 
 
@@ -128,9 +128,9 @@ Options: ETH or a stablecoin like USDC. If we use ether, the balance will be sto
 
 ## TECHNICAL ISSUES
 
-### IPFS and general technical issues
+### [IPFS and general technical issues](https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/)
 
-https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/
+
 
 ### Requests…
 

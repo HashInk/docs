@@ -38,6 +38,31 @@ Hashink is a dapp for fans to request and purchase autographs from their stars a
 * User reviews
 
 
+### Rough Barebones features and pages:
+
+- 2 eth accounts, user + celeb
+  - Eth transactions between them using the hashink contract as an escrow
+- Pages and features:
+  - Home page
+    - ranking
+    - celebs marketplace
+    - create account
+    - Celeb: connect twitter + upload [signature+name+etc]
+  - User gallery
+    - List of hashink NFTs
+    - Share capabilities
+  - Autograph request
+    - Form with basic input
+  - Backend feature: users request/receipt notification system (!)
+  - Autograph canvas
+    - Scribble thing
+    - Background Image placement
+    - Send button
+  - Profile page
+    - add/edit eth account
+
+
+
 ## ARCHITECTURE
 
 ### Technologies

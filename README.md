@@ -12,7 +12,17 @@ Hashink is a dapp for fans to request and purchase autographs from their stars a
 
 ## ROADMAP
 
-### Version 1 (barebones)
+### Version 0.1 (Launch version)
+* Signers will be spotlighted for an X amount of time
+* Only one signer at a time
+* VIPs will sign through our backend and their private keys will be hardcoded for this launch version
+* No account creation for now
+* 10%-100% proceeds will go to hardcoded account for charity
+* User may uplaod picture to sign on top of
+* VIP will sign on top of picture canvas
+
+
+### Version 0.2 (barebones)
 * Signer Signup form [email, price, avatar, signature]
 * magic.link (?)
 * Minimum backend to store celebrity image, their autograph, etc
@@ -24,7 +34,7 @@ Hashink is a dapp for fans to request and purchase autographs from their stars a
 * Requests and celebrities (critical data like price or response time) stored on-chain.
 * Should come back to this at some point.
 
-### Version 2 (Replace with version name)
+### Version 0.3 (Replace with version name)
 * “Celeb” profiles created manually
 * Users can request an autographed photo.
 * Celebs and users can pay with FIAT (Circle integration)
@@ -32,7 +42,7 @@ Hashink is a dapp for fans to request and purchase autographs from their stars a
 * Search function
 * Filtering
 
-### Version 3 (Replace with version name)
+### Version 1 (Replace with version name)
 * Setup Python bot to ‘@’ signers
 * Layer 2 (?)
 * User reviews
